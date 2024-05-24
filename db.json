@@ -1,0 +1,111 @@
+{
+  "ficcao-cientifica": [
+    { "id": 1,
+      "nome": "MIB - Homens de preto",
+      "lançamento": "Lançado em 1997",
+      "Data de exibição": "11/07" },
+    
+    { "id": 2,
+      "nome": "E.T.- O Extraterrestre",
+      "lançamento": "Lançado em 1982",
+      "Data de exibição": "08/10" },
+
+    { "id": 3,
+      "nome": "Matrix",
+      "lançamento": "Lançado em 1999",
+      "Data de exibição": "27/09" },
+
+    { "id": 4,
+      "nome": "O planeta dos macacos",
+      "lançamento": "Lançado em 1968",
+      "Data de exibição": "09/11" }
+  ],
+
+  "comedia": [
+    { "id": 1,
+      "nome": "Esqueceram de mim",
+      "lançamento": "Lançado em 1990",
+      "Data de exibição": "18/05" },
+
+    { "id": 2,
+      "nome": "O maskara",
+      "lançamento": "Lançado em 1994",
+      "Data de exibição": "18/05" },
+
+    { "id": 3,
+      "nome": "Os batutinhas",
+      "lançamento": "Lançado em 1994",
+      "Data de exibição": "22/10" },
+
+    { "id": 4,
+      "nome": "Mr. Bean - o filme",
+      "lançamento": "Lançado em 1997",
+      "Data de exibição": "03/07" }
+  ], 
+
+  "romance": [
+    { "id": 1,
+      "nome": "Orgulho e preconceito",
+      "lançamento": "Lançado em 2005",
+      "Data de exibição": "29/05" },
+
+    { "id": 2,
+      "nome": "Titanic",
+      "lançamento": "Lançado em 1997",
+      "Data de exibição": "06/06" },
+
+    { "id": 3,
+      "nome": "Como se fosse a primeira vez",
+      "lançamento": "Lançado em 2004",
+      "Data de exibição": "26/07" },
+
+    { "id": 4,
+      "nome": "De repente 30",
+      "lançamento": "Lançado em 2004",
+      "Data de exibição": "04/08" }
+  ],
+
+  "animacao": [
+    { "id": 1,
+      "nome": "Peter Pan",
+      "lançamento": "Lançado em 1953",
+      "Data de exibição": "14/06" },
+
+    { "id": 2,
+      "nome": "Rei leão",
+      "lançamento": "Lançado em 1994",
+      "Data de exibição": "18/06" },
+
+    { "id": 3,
+      "nome": "Branca de neve e os sete anões",
+      "lançamento": "Lançado em 1937",
+      "Data de exibição": "19/10" },
+
+    { "id": 4,
+      "nome": "O corcunda de Notre Dame",
+      "lançamento": "Lançado em 1996",
+      "Data de exibição": "11/11" }
+  ],
+
+  "acao": [
+    { "id": 1,
+      "nome": "Karate Kid",
+      "lançamento": "Lançado em 2010",
+      "Data de exibição": "25/12" },
+
+    { "id": 2,
+      "nome": "A hora do rush",
+      "lançamento": "Lançado em 2001",
+      "Data de exibição": "27/11" },
+
+    { "id": 3,
+      "nome": "Missão impossível",
+      "lançamento": "Lançado em 1996",
+      "Data de exibição": "07/07" },
+
+    { "id": 4,
+      "nome": "Um novo dia para matar",
+      "lançamento": "Lançado em 2002",
+      "Data de exibição": "02/12" }
+  ]
+}
